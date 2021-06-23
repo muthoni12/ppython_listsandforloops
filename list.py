@@ -10,6 +10,15 @@ print(users)
 users.pop()
 print(users)
 
+'''
+'''
+
+students = ['val', 'sal', 'pal']
+print(students)
+
+students = ['val', 'sal', 'pal']
+for student in students:
+    print(student)
 
 
 
